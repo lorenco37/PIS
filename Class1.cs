@@ -5,8 +5,8 @@ public class Class1
 	public Class1()
 	{
         int random = rnd.Next(52);
-
-        void praznaMetafora(){
-        }
+	
+	void NovaMetoda(){}
+       
     }
 }
