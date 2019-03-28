@@ -16,6 +16,22 @@ namespace PIS123
             Console.WriteLine("Svite");
             Console.WriteLine("!!!!");
             Console.ReadKey();
+             Console.WriteLine("HE");
+            Console.WriteLine("LLO");
+            Console.WriteLine("Svite");
+            Console.WriteLine("!!!!");
+            Console.ReadKey();
+             Console.WriteLine("HE");
+            Console.WriteLine("LLO");
+            Console.WriteLine("Svite");
+            Console.WriteLine("!!!!");
+            Console.ReadKey();
+             Console.WriteLine("HE");
+            Console.WriteLine("LLO");
+            Console.WriteLine("Svite");
+            Console.WriteLine("!!!!");
+            Console.ReadKey();
+            
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
         }
