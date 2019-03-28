@@ -5,6 +5,9 @@ using System.Text;
 
 namespace PIS123
 {
+    class NewClass {
+
+    }
     class Program
     {
         static void Main(string[] args)
